@@ -5,7 +5,9 @@
   "keywords": [
     "example",
     "express",
-    "passport"
+	"angular",
+	"S3 upload",
+	"AWS"
   ],
   "author": "Nathan Turner",
   "license": "",
