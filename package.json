@@ -1,0 +1,29 @@
+{
+  "name": "angular-node-s3-upload-directive",
+  "version": "0.0.0",
+  "description": "Express Upload to S3 Using Angular",
+  "keywords": [
+    "example",
+    "express",
+    "passport"
+  ],
+  "author": "Nathan Turner",
+  "license": "",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },  
+  "dependencies": {
+    "aws-sdk": "^2.5.1",
+    "body-parser": "^1.13.2",    
+    "dotenv": "^2.0.0",    
+    "express": "^4.13.1",    
+    "morgan": "^1.6.1",
+    "multer": "^1.2.0",
+    "ng-file-upload": "^12.0.4",
+    "nunjucks": "~2.2.0",    
+    "request": "^2.73.0",
+    "sharp": "^0.15.1"
+  }
+}
